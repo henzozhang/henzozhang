@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**henzozhang/henzozhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+README : Projet Data/IA de Zhang Leon
+Présentation
+Bonjour ! Je m'appelle Zhang Leon et je suis actuellement en formation pour devenir un développeur spécialisé dans la Data et l'Intelligence Artificielle. Avant de me lancer dans cette reconversion professionnelle, j'ai travaillé en tant qu'investisseur et créateur d'entreprise pendant plusieurs années.
 
-Here are some ideas to get you started:
+Recherche d'alternance
+Je suis actuellement à la recherche d'une alternance en contrat d'apprentissage pour une durée d'un an. Le rythme de mon alternance est de trois semaines passées en entreprise par mois et une semaine en centre de formation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compétences
+Data Science
+Intelligence Artificielle
+Machine Learning
+Deep Learning
+Python
+Analyse de données
+Visualisation de données
+SQL
+Git
+Contact
+N'hésitez pas à me contacter pour discuter d'opportunités d'alternance ou pour obtenir de plus amples informations sur mon parcours et mes compétences. Vous pouvez me joindre par :
+
+
+Merci de votre intérêt pour mon profil, et j'espère avoir l'occasion de travailler avec vous !
