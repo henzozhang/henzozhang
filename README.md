@@ -9,7 +9,7 @@ J'ai travaillé sur plusieurs projets de grande envergure dans le secteur bancai
 
 ## Compétences 🛠️
 
-- **Langages de programmation** : Python, SQL, Java
+- **Langages de programmation** : Python, SQL
 - **Outils de Big Data** : Hadoop, Spark
 - **Outils d'analyse de données** : Pandas, NumPy, Scikit-learn
 - **Visualisation de données** : Matplotlib, Seaborn, Tableau
